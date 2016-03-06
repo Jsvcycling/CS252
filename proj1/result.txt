@@ -1,0 +1,192 @@
+Josh Vega (jsv28)
+
+
+result: 15
+
+
+ ******************
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\add2.S
+@ add2.s routine to add two numbers
+    .global add2
+    .text
+add2: stmfd sp!, {v1-v6, lr}
+    add a1, a1, a2
+    ldmfd sp!, {v1-v6, pc}
+    .end
+
+------------------
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\cdriver.c
+#include <stdio.h>
+extern int add2( int i, int j ) ;
+
+void main( int argc, char * argv[] )
+{
+    int i = 5 ;
+    int j = 10 ;
+    int result ;
+
+    result = add2( i, j ) ;
+    printf( "result: %d\n", result ) ;
+}
+Josh Vega (jsv28)
+
+
+result: 15
+
+
+ ******************
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\add2.S
+@ add2.s routine to add two numbers
+    .global add2
+    .text
+add2: stmfd sp!, {v1-v6, lr}
+    add a1, a1, a2
+    ldmfd sp!, {v1-v6, pc}
+    .end
+
+------------------
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\cdriver.c
+#include <stdio.h>
+extern int add2( int i, int j ) ;
+
+void main( int argc, char * argv[] )
+{
+    int i = 5 ;
+    int j = 10 ;
+    int result ;
+
+    result = add2( i, j ) ;
+    printf( "result: %d\n", result ) ;
+}
+Josh Vega (jsv28)
+
+
+result: 15
+
+
+ ******************
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\add2.S
+@ add2.s routine to add two numbers
+    .global add2
+    .text
+add2: stmfd sp!, {v1-v6, lr}
+    add a1, a1, a2
+    ldmfd sp!, {v1-v6, pc}
+    .end
+
+------------------
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\cdriver.c
+#include <stdio.h>
+extern int add2( int i, int j ) ;
+
+void main( int argc, char * argv[] )
+{
+    int i = 5 ;
+    int j = 10 ;
+    int result ;
+
+    result = add2( i, j ) ;
+    printf( "result: %d\n", result ) ;
+}
+Josh Vega (jsv28)
+
+
+result: 15
+
+
+ ******************
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\add2.S
+@ add2.s routine to add two numbers
+    .global add2
+    .text
+add2: stmfd sp!, {v1-v6, lr}
+    add a1, a1, a2
+    ldmfd sp!, {v1-v6, pc}
+    .end
+
+------------------
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\cdriver.c
+#include <stdio.h>
+extern int add2( int i, int j ) ;
+
+void main( int argc, char * argv[] )
+{
+    int i = 5 ;
+    int j = 10 ;
+    int result ;
+
+    result = add2( i, j ) ;
+    printf( "result: %d\n", result ) ;
+}
+Josh Vega (jsv28)
+
+
+result: 15
+
+
+ ******************
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\add2.S
+@ add2.s routine to add two numbers
+    .global add2
+    .text
+add2: stmfd sp!, {v1-v6, lr}
+    add a1, a1, a2
+    ldmfd sp!, {v1-v6, pc}
+    .end
+
+------------------
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\cdriver.c
+#include <stdio.h>
+extern int add2( int i, int j ) ;
+
+void main( int argc, char * argv[] )
+{
+    int i = 5 ;
+    int j = 10 ;
+    int result ;
+
+    result = add2( i, j ) ;
+    printf( "result: %d\n", result ) ;
+}
+Josh Vega (jsv28)
+
+
+result: 15
+
+
+ ******************
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\add2.S
+@ add2.s routine to add two numbers
+    .global add2
+    .text
+add2: stmfd sp!, {v1-v6, lr}
+    add a1, a1, a2
+    ldmfd sp!, {v1-v6, pc}
+    .end
+
+------------------
+
+C:\Users\Josh\Documents\GitHub\jsvcycling\cs252\proj1\cdriver.c
+#include <stdio.h>
+extern int add2( int i, int j ) ;
+
+void main( int argc, char * argv[] )
+{
+    int i = 5 ;
+    int j = 10 ;
+    int result ;
+
+    result = add2( i, j ) ;
+    printf( "result: %d\n", result ) ;
+}
